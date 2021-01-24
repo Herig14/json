@@ -1,5 +1,5 @@
 
 [  
-    {"photo":"https://picsum.photos/200" "name":"Ram","phone":0991234567, "email":"Ram@gmail.com"},  
-    {"photo":"https://picsum.photos/200" "name":"Bob","phone":0991234567 "email":"bob32@gmail.com"}  
+    {"photo":"https://picsum.photos/200", "name":"Ram","phone":0991234567, "email":"Ram@gmail.com"},  
+    {"photo":"https://picsum.photos/200", "name":"Bob","phone":0991234567 "email":"bob32@gmail.com"}  
 ]  
